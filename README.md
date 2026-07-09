@@ -47,3 +47,14 @@ Predicts a student's final grade (G3) using Multiple Linear Regression Model on 
 - XGBoost
 - Streamlit Web App
 - Hyperparameter Tuning
+
+## Visualizations
+
+### Actual vs Predicted
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### Error Distribution
+![Error Distribution](images/error_distribution.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
