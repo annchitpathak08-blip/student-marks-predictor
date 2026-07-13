@@ -1,4 +1,4 @@
-# student-marks-predictor
+# student-marks-predictor-using-linear-regression
 Predicts a student's final grade (G3) using Multiple Linear Regression Model on the UCI Student Performance dataset with data preprocessing, one-hot encoding, evaluation metrics, and visualizations made using seaborn
 
 # Features
@@ -51,7 +51,7 @@ Predicts a student's final grade (G3) using Multiple Linear Regression Model on 
 ## Visualizations
 
 ### Actual vs Predicted
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/SMP_actualVSpredicted.png)
 
 ### Error Distribution
 ![Error Distribution](images/error_distribution.png)
